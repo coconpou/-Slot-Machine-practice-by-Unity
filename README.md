@@ -1,5 +1,6 @@
 # Slot-Machine-practice-by-Unity
 使用Unity練習並用C#實作5x4的吃角子老虎機小遊戲
+
 完成功能:
 - 行列輪盤轉動動畫
 - 隨機生成連線圖片
