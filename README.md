@@ -14,4 +14,4 @@
 成果展示影片:[吃角子老虎機小遊戲](https://youtu.be/t8EOme2sQe4)
 
 展示圖片:
-[image](https://github.com/coconpou/-Slot-Machine-practice-by-Unity/blob/main/Example_image/SlotGame1.png?raw=true)
+![image](https://github.com/coconpou/-Slot-Machine-practice-by-Unity/blob/main/Example_image/SlotGame1.png?raw=true)
